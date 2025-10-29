@@ -1,0 +1,27 @@
+# Unity generated folders inside the project folder
+TonyEkken/Library/
+TonyEkken/Temp/
+TonyEkken/Obj/
+TonyEkken/Build/
+TonyEkken/Builds/
+TonyEkken/Logs/
+TonyEkken/MemoryCaptures/
+
+# Visual Studio / JetBrains
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
